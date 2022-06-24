@@ -223,5 +223,5 @@
   - existem outros
 - dowload
 - target
-  - \_self (padrão)
-  - \_blank (nova guia)
+  - "_self" (padrão)
+  - "_blank" (nova guia)
