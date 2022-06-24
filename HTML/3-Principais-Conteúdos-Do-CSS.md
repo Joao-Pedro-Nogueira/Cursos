@@ -94,3 +94,11 @@ section {
   background-size: 42rem; /* horizontal | (auto) vertical*/
 }
 ```
+
+```css
+section {
+  background-origin: border-box;
+  background-origin: padding-box;
+  background-origin: content-box;
+}
+```
